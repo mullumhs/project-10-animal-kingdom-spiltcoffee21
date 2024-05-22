@@ -32,8 +32,16 @@ class Animal():
 
 # Create at least two derived classes from the Animal class. E.g. Bird and Fish.
 # Give each of the derived classes at least one specific behavior. E.g. fly and swim.
-class bird
-class fish
+class bird():
+    def __init__(self, name, age, fly):
+        self.name
+        self.       
+        self.fly
+    
+    
+    
+class fish():
+    def __init__(self, swim):
 
 
 
